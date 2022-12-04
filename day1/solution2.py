@@ -1,3 +1,4 @@
+# https://adventofcode.com/2022/day/1
 top_calories = []
 with open('input.txt') as file:
 	running_sum = 0
